@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi i'm Ximena! 👋
 
-<!--
-**ximenarosas-dev/ximenarosas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Designer & Frontend Developer | Digital Illustrator | Student** 
+I'm a Web Design and Programming student from Argentina, interested in combining design and development to create visual, functional and engaging web experiences. 
 
-Here are some ideas to get you started:
+## Technologies 
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- Vue.js
+- Wordpress
+- Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Design & Tools
+- UI/UX Web Design
+- Digital Illustration
+- Branding & Visual Identity
+- Adobe Photoshop
+- Adobe Illustrator
+- Canva
+- Figma
+- Ibis Paint
+
+## Currently learning
+- Javascript
+- Responsive Web Design
+- CSS animations
+- APIs
+- PHP
+
+## Featured projects 
+More projects coming soon! :D 
